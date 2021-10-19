@@ -1,7 +1,5 @@
-# Class license project
+# Summer Photos
 
-![Image one]({{site.baseurl}}/https://github.com/cpetrella-sketch/Class-license/blob/main/Screenshot9520211019-19301495Facebook.jpg)
+Old photos I took for a summer class during COVID.
 
-![Image two]({{site.baseurl}}/https://github.com/cpetrella-sketch/Class-license/blob/main/Screenshot9520211019-19302395Facebook.jpg)
-
-![Image three]({{site.baseurl}}/https://github.com/cpetrella-sketch/Class-license/blob/main/Screenshot9520211019-19303195Facebook.jpg)
+Posting here because I need to for a class.
